@@ -19,7 +19,7 @@ This project analyses football matches using advanced computer vision techniques
   - Saving the processed frames back into video format.
 
 ### 2. Object Detection and Tracking
-- **YOLOv11n** is used for object detection.[YOLO](https://docs.ultralytics.com/models/yolo11/)
+- **YOLOv11** is used for object detection.[YOLO](https://docs.ultralytics.com/models/yolo11/)
 - **ByteTrack** is utilized for tracking players, ball, and referees. [ByteTrack](https://arxiv.org/pdf/2110.06864)
 - The initial dataset used was provided by **Bundesliga** on [Kaggle](https://www.kaggle.com/datasets/). It is now available on [Roboflow](https://roboflow.com/).
 
